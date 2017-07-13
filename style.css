@@ -1,0 +1,30 @@
+h1 {
+		font-size: 80px;
+		margin-bottom: 15px;
+		color: white;
+		text-align: center;
+		text-decoration: underline;
+		background-color: blue;
+	}
+
+.container{
+	margin: 0 auto;
+	width: 1024px;
+}
+
+#main-bio{
+	float: left;
+	width: 70%;
+}
+
+#contact-info{
+	float: left;
+	width: 30%;
+
+}
+
+#bio-image{
+	float: left;
+	width: 200px;
+	margin: 20px;
+}
